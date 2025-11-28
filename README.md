@@ -257,6 +257,16 @@ This project demonstrates how machine learning can be effectively used to predic
 
 Madhavi Thatha
 
+## 🤝 Need Help or Want to Contribute?
+
+If anyone needs help understanding this project or wants guidance on improving it, feel free to reach out anytime — I’m happy to help!
+
+### 💡 Contributions
+
+Contributions, suggestions, and improvements are always welcome.
+
+I will review and merge PRs that add value to the project.
+
 ## 📜 License
 
 MIT License
