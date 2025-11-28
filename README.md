@@ -1,1 +1,2 @@
 # Housing Price Prediction Using Machine Learning
+This project focuses on predicting house sale prices using machine learning techniques. Housing datasets typically contain a mix of numerical and categorical features that describe various characteristics of a property, such as area, number of rooms, quality rating, location, and more. By learning patterns from this data, machine learning models can forecast the value of a house with considerable accuracy.
