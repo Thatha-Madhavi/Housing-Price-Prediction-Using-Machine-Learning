@@ -24,3 +24,24 @@ This project uses **data preprocessing, exploratory data analysis (EDA), encodin
 - Compare their performance
 
 - Identify the best model for price prediction
+
+## 📂 Dataset
+
+**The dataset used:**
+📄 HousePricePrediction.xlsx
+
+**Contains columns such as:**
+
+Lot area
+
+Ground living area
+
+Overall quality
+
+Garage info
+
+Year built
+
+Number of rooms
+
+SalePrice (target)
