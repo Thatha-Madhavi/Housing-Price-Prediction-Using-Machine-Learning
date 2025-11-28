@@ -6,3 +6,21 @@ This project focuses on predicting house sale prices using machine learning tech
 House price prediction is a regression task where the goal is to estimate a continuous numerical value (Sale Price). Machine Learning helps identify complex relationships between house attributes and their market value, allowing both buyers and sellers to make informed decisions.
 
 This project uses **data preprocessing, exploratory data analysis (EDA), encoding techniques, scaling, and regression algorithms** to build a robust predictive system.
+
+## 🎯 Objective
+
+- Understand dataset features
+
+- Analyze relationships between variables
+
+- Handle missing values
+
+- Convert categorical information into numerical format
+
+- Normalize numerical values
+
+- Train multiple machine learning algorithms
+
+- Compare their performance
+
+- Identify the best model for price prediction
