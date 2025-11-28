@@ -32,16 +32,16 @@ This project uses **data preprocessing, exploratory data analysis (EDA), encodin
 
 **Contains columns such as:**
 
-Lot area
+- Lot area
 
-Ground living area
+- Ground living area
 
-Overall quality
+- Overall quality
 
-Garage info
+- Garage info
 
-Year built
+- Year built
 
-Number of rooms
+- Number of rooms
 
-SalePrice (target)
+- SalePrice (target)
